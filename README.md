@@ -1,1 +1,1 @@
-# Voice-Voice-command-system-for-visually-impaired-person-demo-model-
+# Voice-command-system-for-visually-impaired-person-demo-model-
